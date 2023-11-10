@@ -10,5 +10,7 @@ public class HolaPersona {
 		JOptionPane.showMessageDialog(null, "hola" + nombre);
 		
 		System.out.println("Hola caracola");
+		
+		System.out.println("Hola caracol");
 	}
 }
